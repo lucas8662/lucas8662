@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/lucas8662/lucas8662/blob/output/github-contribution-grid-snake.svg)
-
 <h3 align="center">Statistic</h3>
 
 <h3 align="left">Connect with me:</h3>
