@@ -1,0 +1,13 @@
+[
+  {
+    "hostedTabURI": "http://lists.sa-mp.com/0.3.7/hosted",
+    "installationURI": "https://downloads-SAMP.github.io/sa-mp-0.3.7-R4-2-install.exe",
+    "internetTabURI": "http://lists.sa-mp.com/0.3.7/internet",
+    "name": "SA:MP 0.3.7-R4",
+    "officialTabURI": "http://lists.sa-mp.com/0.3.7/internet",
+    "orderNumber": 0,
+    "sampDLLSHA512": "djrQGq/GTFroA7Wj9OSpXxG7TTLBNjLOLTD2LNE2X4QJdTaFAPIYF3MW9lKRwlZKQKAI1nGZ61Q1D8hd6oig9Q==",
+    "userAgent": "Mozilla/3.0 (compatible; SA:MP v0.3.7)",
+    "zipURI": "https://bigeti.de/mods/SAMP/Installations/sa-mp-0.3.7-R4-2-install.zip"
+  }
+]
