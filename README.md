@@ -49,8 +49,6 @@
 ---
 
 
----
-
 🔥 *"Transformando café em código desde sempre."*
 
 <h3 align="center">Contributions -</h3>
